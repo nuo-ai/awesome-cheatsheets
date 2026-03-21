@@ -41,6 +41,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [Java](languages/java.md)
 - [PHP](languages/php.php)
 - [Python](languages/python.md)
+- [XML](languages/XML.md)
 
 #### Functional
 - [JavaScript](languages/javascript.js)
@@ -60,7 +61,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 #### Python
 - [Django](backend/django.py)
 
-#### Javascript
+#### JavaScript
 - [Adonis.js](backend/adonis.js)
 - [Express.js](backend/express.js)
 - [Feathers.js](backend/feathers.js)
@@ -102,6 +103,7 @@ Feel free to take a look. You might learn new things. They have been designed to
 - [MySQL](databases/mysql.sh)
 
 #### NoSQL
+- [MongoDB](databases/mongodb.sh)
 - [Redis](databases/redis.sh)
 
 </details>
@@ -128,8 +130,10 @@ Feel free to take a look. You might learn new things. They have been designed to
 #### Infrastructure
 - [AWS CLI](tools/aws.sh)
 - [Docker](tools/docker.sh)
+- [GCP CLI](tools/gcp.md)
 - [Heroku CLI](tools/heroku.sh)
 - [Kubernetes](tools/kubernetes.md)
+- [macOS](tools/macos.sh)
 - [Nanobox Boxfile](tools/nanobox_boxfile.yml)
 - [Nanobox CLI](tools/nanobox_cli.sh)
 - [Nginx](tools/nginx.sh)
